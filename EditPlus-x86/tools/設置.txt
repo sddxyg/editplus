@@ -1,0 +1,37 @@
+----------------------------------
+html美化 
+用tools/htb.exe
+-l4 -z $(FilePath) 
+----------------------------------
+----------------------------------
+js美化 
+Cscript.exe /noLOGO "D:\Program Files\EditPlus 3\tools\jsFormatter.js" 
+----------------------------------
+----------------------------------
+css美化 
+Cscript.exe /noLOGO "D:\Program Files\EditPlus 3\tools\cssFormatter.js" 
+----------------------------------
+----------------------------------
+php美化 
+用tools/pcb.exe
+while --space-before-start-angle-bracket --space-after-end-angle-bracket  --extra-padding-for-case-statement --glue-amperscore --change-shell-comment-to-double-slashes-comment --indent-with-tab --force-large-php-code-tag --force-true-false-null-contant-lowercase --comment-rendering-style PEAR --equal-align-position 50 --padding-char-count 1 "$(FilePath)"
+初始目錄:$(FileDir) 
+----------------------------------
+----------------------------------
+html美化 
+用tools/htb.exe
+-l4 -z $(FilePath) 
+----------------------------------
+----------------------------------
+其他設置:去除修改備份選項
+         括號配對和文字高亮
+         語法文件和自動完成文件
+	 默認編碼改成utf-8
+         開啟zen coding
+----------------------------------
+常用快捷鍵 ctrl+[ 尋找匹配標籤 
+----------------------------------
+待補充......
+
+
+
