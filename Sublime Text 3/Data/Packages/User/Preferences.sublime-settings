@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Theme - Nil/Tubnil.tmTheme",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"update_check": false,
+	"font_face":"微软雅黑", 
+	"font_weight":"bold", 
+	"word_wrap": "auto"
+}
