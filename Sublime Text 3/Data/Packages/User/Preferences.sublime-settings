@@ -1,12 +1,13 @@
 {
-	"color_scheme": "Packages/Theme - Nil/Tubnil.tmTheme",
-	"font_size": 11.0,
+	"color_scheme": "Packages/Theme - Nil/Sanakan.tmTheme",
+	"dpi_scale": 1.0,
+	"font_face": "微软雅黑",
+	"font_size": 12.0,
+	"font_weight": "bold",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"update_check": false,
-	"font_face":"微软雅黑", 
-	"font_weight":"bold", 
 	"word_wrap": "auto"
 }

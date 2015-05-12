@@ -3,7 +3,7 @@
 	[
 	],
 	"last_version": 3047,
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"log_indexing": false,
 	"settings":
 	{
@@ -19,9 +19,17 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 81.0,
+				"height": 364.0,
 				"selected_items":
 				[
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"par",
+						"Package Control: List Packages"
+					]
 				],
 				"width": 504.0
 			},
@@ -43,10 +51,13 @@
 			},
 			"file_history":
 			[
+				"/D/Program Files/editplus/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/wamp/www/index.html",
+				"/d/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 29.0
 			},
 			"find_in_files":
 			{
@@ -60,6 +71,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"h2"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -76,16 +88,16 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 29.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 37.0
 			},
 			"menu_visible": true,
 			"replace":
 			{
-				"height": 0.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -136,33 +148,59 @@
 			"buffers":
 			[
 				{
-					"contents": "随碟附送地方<div>\n  <h2></h2>\n  <p></p>\n  <p></p>\n</div>\n<div>\n  <h2></h2>\n  <p></p>\n  <p></p>\n</div>\n<div>\n  <h2></h2>\n  <p></p>\n  <p></p>\n</div>\n\n<!doctype html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Document</title>\n</head>\n<body>\n	\n</body>\n</html>\n\n<div class=\"doc\">\n	<ul class=\"list\">\n		<li></li>\n		<li></li>\n		<li></li>\n	</ul>\n</div>",
+					"file": "/D/wamp/www/index.php",
 					"settings":
 					{
-						"buffer_size": 351,
-						"line_ending": "Windows",
-						"name": "随碟附送地方<div>"
+						"buffer_size": 172,
+						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "随碟附送的",
+					"file": "/D/☆chris-all/web/Sublime Text 3/Data/Packages/Theme - Default/Default.sublime-theme",
 					"settings":
 					{
-						"buffer_size": 5,
+						"buffer_size": 30174,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "sdfsdfsdfsd\nforeach",
+					"file": "/C/Documents and Settings/Administrator.COMPUTER/桌面/sdfsdfsdfsd",
+					"file_size": 11,
+					"file_write_time": 130756913240000000,
+					"settings":
+					{
+						"buffer_size": 19,
 						"line_ending": "Windows",
-						"name": "随碟附送的"
+						"name": "sdfsdfsdfsd"
 					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 364.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
 						"par",
-						"Package Control: Add Repository"
+						"Package Control: List Packages"
 					]
 				],
 				"width": 504.0
@@ -185,12 +223,18 @@
 			},
 			"file_history":
 			[
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/editplus/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/editplus/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Program Files/editplus/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Documents and Settings/Administrator.COMPUTER/桌面/999网址导航.htm",
+				"/C/Documents and Settings/Administrator.COMPUTER/桌面/sdfsdfsdfsd",
 				"/D/wamp/www/index.html",
 				"/d/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings"
 			],
 			"find":
 			{
-				"height": 29.0
+				"height": 58.0
 			},
 			"find_in_files":
 			{
@@ -204,6 +248,13 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\"font.size\":14,\n        \"font.face\":\"微软雅黑\",",
+					"tab-height",
+					"foreach",
+					"cursor",
+					"code",
+					"...\n",
+					"		#",
 					"h2"
 				],
 				"highlight": true,
@@ -212,6 +263,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"foreach"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -222,50 +274,16 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
+							"file": "/D/wamp/www/index.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 351,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										308,
-										308
-									]
-								],
-								"settings":
-								{
-									"auto_name": "随碟附送地方<div>",
-									"encoding_helper_encoding": "",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4
-								},
-								"translation.x": 0.0,
-								"translation.y": 284.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5,
+								"buffer_size": 172,
 								"regions":
 								{
 								},
@@ -278,8 +296,69 @@
 								],
 								"settings":
 								{
-									"auto_name": "随碟附送的",
-									"encoding_helper_encoding": "",
+									"encoding_helper_encoding": "cp936",
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/☆chris-all/web/Sublime Text 3/Data/Packages/Theme - Default/Default.sublime-theme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 30174,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15260,
+										15260
+									]
+								],
+								"settings":
+								{
+									"buffer_empty": false,
+									"create_dir": true,
+									"encoding_helper_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 10794.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Documents and Settings/Administrator.COMPUTER/桌面/sdfsdfsdfsd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12,
+										19
+									]
+								],
+								"settings":
+								{
+									"auto_name": "sdfsdfsdfsd",
+									"clone_numbers": 0,
+									"encoding_helper_encoding": "cp936",
+									"history_list_is_closing": true,
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
@@ -308,12 +387,6 @@
 						0,
 						1,
 						1
-					],
-					[
-						0,
-						1,
-						1,
-						2
 					]
 				],
 				"cols":
@@ -324,12 +397,11 @@
 				"rows":
 				[
 					0.0,
-					0.694650817236,
 					1.0
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,2,-32000,-32000,-1,-1,696,178,97,880",
+			"position": "0,2,3,-32000,-32000,-1,-1,696,178,97,880",
 			"project": "",
 			"replace":
 			{

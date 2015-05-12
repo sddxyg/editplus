@@ -2,12 +2,20 @@
 	"licensed": true,
 	"packages":
 	[
-		"0_package_control_loader"
+		"0_package_control_loader",
+		"PackageResourceViewer",
+		"0_package_control_loader",
+		"PackageResourceViewer",
+		"0_package_control_loader",
+		"PackageResourceViewer",
+		"0_package_control_loader",
+		"PackageResourceViewer",
+		"Theme - Soda"
 	],
-	"startup_sec": 2.265625,
+	"startup_sec": 0.5946598,
 	"syntax":
 	{
-		"JSON": 11
+		"JSON": 166
 	},
-	"time": 1431212901
+	"time": 1431418693
 }
