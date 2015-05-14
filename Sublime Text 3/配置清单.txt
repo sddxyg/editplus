@@ -1,0 +1,7 @@
+1.在sublime text 3中，Preference, Settings-User，最后加上一行 "dpi_scale": 1.0
+2.安装prv,修改tab和sidebar的字体大小
+3.豆沙绿
+4.安装codeformatter
+5.sidebar "font.size":14,"font.face":"Platino Linotype",
+6.括号配对 搜索关键字bracket
+#7.安装git集成
