@@ -19,11 +19,13 @@
 					{ "caption": "-" },
 					// Folder history goes here
 					{ "command": "side_bar_folders_load", "args":{ "index": 0, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 1, "append": true }},
 				]
 			},
 			// Folder history goes here
 			{ "caption": "-" , "id": "options-separator" },
 			{ "command": "side_bar_folders_load", "args":{ "index": 0 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 1 }},
 			{ "caption": "-" , "id": "options" },
 			{ "caption": "-" , "id": "end" }
 		]
