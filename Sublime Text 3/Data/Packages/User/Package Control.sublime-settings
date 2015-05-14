@@ -5,11 +5,16 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"CodeFormatter",
 		"Emmet",
+		"Git",
 		"Package Control",
 		"PackageResourceViewer",
-		"phpfmt",
+		"Phpcs",
+		"SideBarFolders",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"Theme - Nil",
 		"Theme - Soda",
 		"Theme - Soda SolarizedDark"

@@ -3,19 +3,20 @@
 	"packages":
 	[
 		"0_package_control_loader",
+		"BracketHighlighter",
+		"Git",
 		"PackageResourceViewer",
-		"0_package_control_loader",
-		"PackageResourceViewer",
-		"0_package_control_loader",
-		"PackageResourceViewer",
-		"0_package_control_loader",
-		"PackageResourceViewer",
+		"Phpcs",
+		"SideBarFolders",
+		"SublimeLinter-php",
+		"Theme - Soda SolarizedDark",
 		"Theme - Soda"
 	],
-	"startup_sec": 0.5946598,
+	"startup_sec": 0.8110849,
 	"syntax":
 	{
-		"JSON": 166
+		"HTML": 135,
+		"PHP": 18
 	},
-	"time": 1431418693
+	"time": 1431505093
 }
