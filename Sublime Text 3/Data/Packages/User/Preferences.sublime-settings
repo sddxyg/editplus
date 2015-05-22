@@ -9,5 +9,5 @@
 		"Vintage"
 	],
 	"update_check": false,
-	"word_wrap": "auto"
+	"word_wrap": "true"
 }

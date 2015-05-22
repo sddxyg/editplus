@@ -1,10 +1,11 @@
 {
 	"folder_history":
 	[
+		"/D/wamp/www/haima.api/application",
 		"/D/wamp/www/haima.api"
 	],
 	"last_version": 3047,
-	"last_window_id": 9,
+	"last_window_id": 14,
 	"log_indexing": false,
 	"settings":
 	{
@@ -15,6 +16,50 @@
 			{
 				"selected_items":
 				[
+					[
+						"preg",
+						"preg_replace"
+					],
+					[
+						"order",
+						"order_info"
+					],
+					[
+						"page",
+						"pageinfo"
+					],
+					[
+						"chec",
+						"check_item"
+					],
+					[
+						"date",
+						"datepicker"
+					],
+					[
+						"talbe",
+						"table-head"
+					],
+					[
+						"json",
+						"json_data"
+					],
+					[
+						"num",
+						"numField"
+					],
+					[
+						"check",
+						"check_period"
+					],
+					[
+						"item",
+						"item_index"
+					],
+					[
+						"onc",
+						"onclick	Attr"
+					],
 					[
 						"fetch",
 						"fetchAll"
@@ -44,10 +89,6 @@
 						"select"
 					],
 					[
-						"order",
-						"order_status"
-					],
-					[
 						"dea",
 						"dealer_id"
 					],
@@ -60,9 +101,17 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 127.0,
 				"selected_items":
 				[
+					[
+						"Snippet: ",
+						"Snippet: 导出"
+					],
+					[
+						"s",
+						"Snippet: 复选框是否选中"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -140,32 +189,68 @@
 			},
 			"file_history":
 			[
+				"/D/wamp/www/haima.api/public/css/common/common.css",
 				"/D/wamp/www/haima.api/application/views/pre4sstock/carstock.phtml",
-				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/fb.snippet",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/stockcheck.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/ajaxLocationCheck.phtml",
+				"/D/wamp/www/haima.api/application/controllers/Pre4sbusiness.php",
+				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carsalesdetail.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carstockdetail.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carorderinwarehouse.phtml",
+				"/D/wamp/www/haima.api/application/models/Pre4sbusiness.php",
+				"/D/wamp/www/haima.api/application/models/Pre4sstock.php",
+				"/D/wamp/www/haima.api/application/controllers/Pre4sstock.php",
+				"/D/wamp/www/haima.api/application/models/Mosaic.php",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/ajaxGetQueryResult.phtml",
+				"/C/Users/Apple/Desktop/pre4sstock/carstock.phtml",
+				"/D/wamp/www/haima.api/application/models/Pre4SStock.php",
+				"/D/wamp/www/haima.api/application/models/Pre4spurchase.php",
+				"/D/wamp/www/haima.api/application/models/Pre4SBusiness.php",
+				"/D/wamp/www/haima.api/application/models/Pre4ssales.php",
+				"/D/wamp/www/haima.api/application/views/pre4sbusiness/ajaxGetCheck.phtml",
+				"/D/wamp/www/haima.api/application/library/functions.php",
+				"/D/wamp/www/haima.api/application/Bootstrap.php",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/ajaxGetOneStock.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/ajaxShowEdit.phtml",
+				"/D/wamp/www/haima.api/application/modules/Sync/views/car/clientinfolist.phtml",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/wamp/www/haima.api/conf/application.ini",
+				"/D/wamp/www/haima.api/application/views/after4sappoint/managelist.phtml",
+				"/D/wamp/www/haima.api/application/models/Order.php",
+				"/D/wamp/www/haima.api/application/views/field_head.phtml",
+				"/D/wamp/www/haima.api/application/controllers/After4sappoint.php",
+				"/D/360极速浏览器下载/预约统计2015-05-15.xls",
+				"/D/wamp/www/haima.api/application/controllers/Prehmstock.php",
 				"/D/wamp/www/haima.api/application/controllers/Base.php",
+				"/D/wamp/www/haima.api/application/modules/Sync/views/car/customerinfo.phtml",
+				"/D/wamp/www/haima.api/application/views/service/orderstat.phtml",
+				"/C/Users/Apple/Desktop/1.html",
+				"/C/Users/Apple/Desktop/Book1.xls",
+				"/C/Users/Apple/Desktop/新建文本文档.txt",
+				"/D/wamp/www/haima.api/application/modules/Sync/controllers/Car.php",
+				"/D/wamp/www/haima.api/application/views/after4sappoint/ajaxrefresh.phtml",
+				"/D/360极速浏览器下载/lightswitch05-table-to-json-c5e5c2b/test/index.html",
+				"/D/360极速浏览器下载/lightswitch05-table-to-json-c5e5c2b/test/specs/content.test.js",
+				"/D/360极速浏览器下载/lightswitch05-table-to-json-c5e5c2b/test/specs/core.test.js",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/复选框是否选中.sublime-snippet",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/导出.sublime-snippet",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/导出.snippet",
+				"/D/wamp/www/haima.api/application/models/Service.php",
+				"/D/wamp/www/haima.api/application/controllers/Service.php",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/fb.snippet",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/SublimeLinter.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Phpcs/phpcs.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Phpcs/Default (Windows).sublime-keymap",
-				"/D/wamp/www/haima.api/application/models/Order.php",
-				"/D/wamp/www/haima.api/application/modules/Sync/views/car/customerinfo.phtml",
-				"/D/wamp/www/haima.api/application/views/after4sappoint/managelist.phtml",
-				"/D/wamp/www/haima.api/application/modules/Sync/controllers/Car.php",
-				"/D/wamp/www/haima.api/application/controllers/After4sappoint.php",
-				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carsalesdetail.phtml",
-				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carstockdetail.phtml",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/Git.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
-				"/D/wamp/www/haima.api/application/views/pre4sstock/stockcheck.phtml",
 				"/D/wamp/www/haima.api/application/controllers/Prehmdelivery.php",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/CodeFormatter/CodeFormatter.sublime-settings",
-				"/D/wamp/www/haima.api/application/models/Pre4SStock.php",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Theme - Default/Default.sublime-theme",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Theme - Nil/Sanakan.tmTheme",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/CodeFormatter/README.md",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/CodeFormatter.sublime-settings",
-				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/phpfmt/phpfmt.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/CodeFormatter/Default (Windows).sublime-keymap",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/phpfmt/Default.sublime-keymap",
@@ -185,9 +270,10 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 108.0,
 				"where_history":
 				[
+					"D:\\wamp\\www\\haima.api\\application"
 				]
 			},
 			"find_state":
@@ -195,6 +281,35 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ereg_replace",
+					"delWhite",
+					"name=\"hhhhh\"",
+					"check_no",
+					"src_id",
+					"die",
+					"id",
+					"$val",
+					"val",
+					"showedit",
+					"show",
+					"getlist",
+					"getlst",
+					",\"\"));",
+					"export",
+					"readonly",
+					"id=\"date\"",
+					"showDateBox",
+					"list",
+					"<td>",
+					"$_POST",
+					"ajaxLocationCheck",
+					"order-list",
+					");\n",
+					"//",
+					" class=\"hide-text\"",
+					"<td>",
+					"export",
+					"getMultiServiceDetailList",
 					"ext\"",
 					"\" ",
 					"cur_",
@@ -279,7 +394,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 263.0,
+			"side_bar_width": 247.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -294,6 +409,54 @@
 			{
 				"selected_items":
 				[
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"preg",
+						"preg_replace"
+					],
+					[
+						"order",
+						"order_info"
+					],
+					[
+						"page",
+						"pageinfo"
+					],
+					[
+						"chec",
+						"check_item"
+					],
+					[
+						"date",
+						"datepicker"
+					],
+					[
+						"talbe",
+						"table-head"
+					],
+					[
+						"json",
+						"json_data"
+					],
+					[
+						"num",
+						"numField"
+					],
+					[
+						"check",
+						"check_period"
+					],
+					[
+						"item",
+						"item_index"
+					],
+					[
+						"onc",
+						"onclick	Attr"
+					],
 					[
 						"fetch",
 						"fetchAll"
@@ -323,10 +486,6 @@
 						"select"
 					],
 					[
-						"order",
-						"order_status"
-					],
-					[
 						"dea",
 						"dealer_id"
 					],
@@ -339,10 +498,58 @@
 			"buffers":
 			[
 				{
-					"file": "/D/wamp/www/haima.api/application/controllers/Pre4sstock.php",
+					"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/carsalesdetail.phtml",
 					"settings":
 					{
-						"buffer_size": 4458,
+						"buffer_size": 17927,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/carstockdetail.phtml",
+					"settings":
+					{
+						"buffer_size": 14410,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/carorderinwarehouse.phtml",
+					"settings":
+					{
+						"buffer_size": 11160,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp/www/haima.api/application/controllers/Pre4sbusiness.php",
+					"settings":
+					{
+						"buffer_size": 2291,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/ajaxGetInCheck.phtml",
+					"settings":
+					{
+						"buffer_size": 4509,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/ajaxGetGiveCheck.phtml",
+					"settings":
+					{
+						"buffer_size": 4536,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp/www/haima.api/application/models/Pre4sbusiness.php",
+					"settings":
+					{
+						"buffer_size": 4195,
 						"line_ending": "Windows"
 					}
 				}
@@ -350,9 +557,17 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 127.0,
 				"selected_items":
 				[
+					[
+						"Snippet: ",
+						"Snippet: 导出"
+					],
+					[
+						"s",
+						"Snippet: 复选框是否选中"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -410,7 +625,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 512.0
+				"width": 504.0
 			},
 			"console":
 			{
@@ -430,32 +645,70 @@
 			},
 			"file_history":
 			[
+				"/D/wamp/www/haima.api/application/views/pre4sbusiness/ajaxGetCheck.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/ajaxShowEdit.phtml",
+				"/D/wamp/www/haima.api/application/controllers/After4sappoint.php",
+				"/D/wamp/www/haima.api/application/models/Order.php",
+				"/D/wamp/www/haima.api/application/views/after4sappoint/ajaxrefresh.phtml",
+				"/D/wamp/www/haima.api/public/css/common/common.css",
+				"/D/wamp/www/haima.api/public/css/field.css",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/stockcheck.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carorderinwarehouse.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carsalesdetail.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carstockdetail.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/ajaxGetOneStock.phtml",
 				"/D/wamp/www/haima.api/application/views/pre4sstock/carstock.phtml",
-				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/fb.snippet",
+				"/D/wamp/www/haima.api/application/views/index/index.phtml",
+				"/D/wamp/www/haima.api/application/views/after4sappoint/managelist.phtml",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/ajaxLocationCheck.phtml",
+				"/D/wamp/www/haima.api/application/controllers/Pre4sbusiness.php",
+				"/D/wamp/www/haima.api/application/models/Pre4sbusiness.php",
+				"/D/wamp/www/haima.api/application/models/Pre4sstock.php",
+				"/D/wamp/www/haima.api/application/controllers/Pre4sstock.php",
+				"/D/wamp/www/haima.api/application/models/Mosaic.php",
+				"/D/wamp/www/haima.api/application/views/pre4sstock/ajaxGetQueryResult.phtml",
+				"/C/Users/Apple/Desktop/pre4sstock/carstock.phtml",
+				"/D/wamp/www/haima.api/application/models/Pre4SStock.php",
+				"/D/wamp/www/haima.api/application/models/Pre4spurchase.php",
+				"/D/wamp/www/haima.api/application/models/Pre4SBusiness.php",
+				"/D/wamp/www/haima.api/application/models/Pre4ssales.php",
+				"/D/wamp/www/haima.api/application/library/functions.php",
+				"/D/wamp/www/haima.api/application/Bootstrap.php",
+				"/D/wamp/www/haima.api/application/modules/Sync/views/car/clientinfolist.phtml",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/wamp/www/haima.api/conf/application.ini",
+				"/D/wamp/www/haima.api/application/views/field_head.phtml",
+				"/D/360极速浏览器下载/预约统计2015-05-15.xls",
+				"/D/wamp/www/haima.api/application/controllers/Prehmstock.php",
 				"/D/wamp/www/haima.api/application/controllers/Base.php",
+				"/D/wamp/www/haima.api/application/modules/Sync/views/car/customerinfo.phtml",
+				"/D/wamp/www/haima.api/application/views/service/orderstat.phtml",
+				"/C/Users/Apple/Desktop/1.html",
+				"/C/Users/Apple/Desktop/Book1.xls",
+				"/C/Users/Apple/Desktop/新建文本文档.txt",
+				"/D/wamp/www/haima.api/application/modules/Sync/controllers/Car.php",
+				"/D/360极速浏览器下载/lightswitch05-table-to-json-c5e5c2b/test/index.html",
+				"/D/360极速浏览器下载/lightswitch05-table-to-json-c5e5c2b/test/specs/content.test.js",
+				"/D/360极速浏览器下载/lightswitch05-table-to-json-c5e5c2b/test/specs/core.test.js",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/复选框是否选中.sublime-snippet",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/导出.sublime-snippet",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/导出.snippet",
+				"/D/wamp/www/haima.api/application/models/Service.php",
+				"/D/wamp/www/haima.api/application/controllers/Service.php",
+				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/fb.snippet",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/SublimeLinter.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Phpcs/phpcs.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Phpcs/Default (Windows).sublime-keymap",
-				"/D/wamp/www/haima.api/application/models/Order.php",
-				"/D/wamp/www/haima.api/application/modules/Sync/views/car/customerinfo.phtml",
-				"/D/wamp/www/haima.api/application/views/after4sappoint/managelist.phtml",
-				"/D/wamp/www/haima.api/application/modules/Sync/controllers/Car.php",
-				"/D/wamp/www/haima.api/application/controllers/After4sappoint.php",
-				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carsalesdetail.phtml",
-				"/D/wamp/www/haima.api/application/views/pre4sbusiness/carstockdetail.phtml",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/Git.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
-				"/D/wamp/www/haima.api/application/views/pre4sstock/stockcheck.phtml",
 				"/D/wamp/www/haima.api/application/controllers/Prehmdelivery.php",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/CodeFormatter/CodeFormatter.sublime-settings",
-				"/D/wamp/www/haima.api/application/models/Pre4SStock.php",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Theme - Default/Default.sublime-theme",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/Theme - Nil/Sanakan.tmTheme",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/CodeFormatter/README.md",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/CodeFormatter.sublime-settings",
-				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/phpfmt/phpfmt.sublime-settings",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/CodeFormatter/Default (Windows).sublime-keymap",
 				"/D/☆chris-all/web/Sublime Text 3/Data/Packages/phpfmt/Default.sublime-keymap",
@@ -475,9 +728,10 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 108.0,
 				"where_history":
 				[
+					"D:\\wamp\\www\\haima.api\\application"
 				]
 			},
 			"find_state":
@@ -485,6 +739,41 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"check-content",
+					"\\",
+					"src_id",
+					"close",
+					"closetag",
+					"focus",
+					"ereg_replace",
+					"delWhite",
+					"name=\"hhhhh\"",
+					"check_no",
+					"src_id",
+					"die",
+					"id",
+					"$val",
+					"val",
+					"showedit",
+					"show",
+					"getlist",
+					"getlst",
+					",\"\"));",
+					"export",
+					"readonly",
+					"id=\"date\"",
+					"showDateBox",
+					"list",
+					"<td>",
+					"$_POST",
+					"ajaxLocationCheck",
+					"order-list",
+					");\n",
+					"//",
+					" class=\"hide-text\"",
+					"<td>",
+					"export",
+					"getMultiServiceDetailList",
 					"ext\"",
 					"\" ",
 					"cur_",
@@ -523,27 +812,34 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "D:\\wamp\\www\\haima.api\\application"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/wamp/www/haima.api/application/controllers/Pre4sstock.php",
+							"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/carsalesdetail.phtml",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4458,
+								"buffer_size": 17927,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1049,
-										1049
+										14618,
+										14637
 									]
 								],
 								"settings":
@@ -551,26 +847,16 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -586,26 +872,582 @@
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_single_quote_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8 with BOM",
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7917.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/carstockdetail.phtml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14410,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										854,
+										854
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 422.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/carorderinwarehouse.phtml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11160,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										830,
+										830
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4798.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/wamp/www/haima.api/application/controllers/Pre4sbusiness.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2291,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										671,
+										671
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 315.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/ajaxGetInCheck.phtml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4509,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										106,
+										106
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 378.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/wamp/www/haima.api/application/views/pre4sbusiness/ajaxGetGiveCheck.phtml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4536,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1533,
+										1533
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 189.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/wamp/www/haima.api/application/models/Pre4sbusiness.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4195,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1925,
+										1925
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
 									],
 									"encoding_helper_encoding": "UTF-8",
 									"origin_encoding": "UTF-8",
@@ -614,7 +1456,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 441.0,
+								"translation.y": 2457.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -657,7 +1499,7 @@
 			{
 				"height": 136.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,604,257,0,959",
+			"position": "0,2,3,-32000,-32000,-1,-1,674,381,70,1083",
 			"project": "",
 			"replace":
 			{
@@ -695,7 +1537,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 263.0,
+			"side_bar_width": 247.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

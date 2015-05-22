@@ -12,11 +12,12 @@
 		"Theme - Soda SolarizedDark",
 		"Theme - Soda"
 	],
-	"startup_sec": 0.8110849,
+	"startup_sec": 0.6519124,
 	"syntax":
 	{
-		"HTML": 135,
-		"PHP": 18
+		"CSS": 15,
+		"HTML": 221,
+		"PHP": 145
 	},
-	"time": 1431505093
+	"time": 1432000101
 }
